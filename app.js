@@ -1,4 +1,3 @@
-const payButton = document.getElementById("payButton");
-payButton.addEventListener("click", () => {
-  // Add your payment processing logic here
-});
+ function saveData() {
+  alert("Please pay your payment to jazzcash account 03218100537 and then message or Whatsapp us Thankyou");
+}
